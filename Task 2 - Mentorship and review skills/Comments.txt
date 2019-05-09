@@ -1,0 +1,19 @@
+Hi There,
+
+I currently a moveable character on a webpage but I want prevent it from going out of the screen's bounds.
+Please could you give me an idea and some basic code on how to approach this problem?
+
+Thanks!
+
+==================
+
+Hello there!
+
+Before I try and answer your question, let's take a look at your code quality.
+-HTML - Poor. No indentation, try to put your comments above whatever it is that you are commenting about.
+-CSS - Poor. Indentation does not line up, styles for body goes before styles for img.
+-JS - Good. Good use of comments, spacing and indentation is also good. Error-free code, well done!
+
+Now to get back to your question, I have seen your code and think I know what the problem might be, try adding an event listener for both the x- and y-axis in your code.
+
+I hope I have helped you move a step in the right direction.
