@@ -14,13 +14,15 @@ body {
   margin: 0;
 }
 
+.heading {
+  padding-bottom: 10%;
+  text-align: center;
+
+}
+
 /* Responsive Images */
 
-embed,
-iframe,
-img,
-object,
-video {
+img {
   max-width: 100%;
 }
 
@@ -41,14 +43,6 @@ hr {
   margin: 0;
   padding-right: 0;
   padding-left: 0;
-}
-
-a {
-  text-decoration: none;
-}
-
-a:focus {
-  outline: none;
 }
 
 h1,
